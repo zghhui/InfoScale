@@ -45,13 +45,13 @@ class Attention(nn.Module):
 2) Input the following commands in terminal:
 ```bash
 # SD1.5 256x256
-python run_sd_256x256.sh
+bash run_sd_256x256.sh
 
 # SD2.1 256x256
-python run_sd_256x256.sh
+bash run_sd_256x256.sh
 
 # SDXL 512x512
-python run_sdxl_512x512.sh
+bash run_sdxl_512x512.sh
 ```
 
 ### 2. higher-Resolution Text-to-Image
@@ -60,22 +60,22 @@ python run_sdxl_512x512.sh
 2) Input the following commands in terminal:
 ```bash
 # SD1.5 1024x1024
-python run_sd_1024x1024.sh
+bash run_sd_1024x1024.sh
 
 # SD1.5 2048x2048
-python run_sd_1024x1024.sh
+bash run_sd_1024x1024.sh
 
 # SD2.1 1024x1024
-python run_sd_1024x1024.sh
+bash run_sd_1024x1024.sh
 
 # SD2.1 2048x2048
-python run_sd_1024x1024.sh
+bash run_sd_1024x1024.sh
 
 # SDXL 2048x2048
-python run_sdxl_2048x2048.sh
+bash run_sdxl_2048x2048.sh
 
 # SDXL 4096x4096
-python run_sdxl_4096x4096.sh
+bash run_sdxl_4096x4096.sh
 ```
 
 ## Acknowledgements
